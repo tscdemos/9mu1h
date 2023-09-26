@@ -1,0 +1,2 @@
+cloudfoundry_org_name="82eb65ef36b5fa69123c7c0a95ab3db5"
+cloudfoundry_space_name="development"
